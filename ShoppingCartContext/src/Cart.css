@@ -1,0 +1,145 @@
+span
+{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.delete-btn
+{
+    margin-left: 721px;
+}
+
+.cart
+{
+    margin-top: 50px;
+}
+
+.item-container
+{
+    display: flex;
+    align-items: center;
+    margin: 20px 0px 20px 20px;
+    
+
+}
+
+.cart-item-img
+{
+    width: 15%;
+}
+
+.price-title
+{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    flex-direction: column;
+    margin-top: -80px;
+}
+
+.cart-item-price
+{
+    margin-left: 30px;
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+
+.cart-item-title
+{
+    margin-left: 30px;
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+
+.cart-plus-btn
+{
+    margin-top: -80px;
+    margin-left: 10px;
+    margin-left: 1000px
+}
+
+.cart-minus-btn
+{
+    margin-top: -80px;
+    margin-left: 10px;
+}
+.total-container
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 259px;
+    
+}
+
+.amount
+{
+    margin: 0px 132px 0px 964px;
+    padding: 10px 10px 10px 10px;
+}
+
+.total
+{
+    padding: 10px 10px 10px 10px;
+}
+
+.plus-minus-btn
+{
+    margin: 0 auto;
+    margin-left: 60px;
+    margin-top: 15px;
+}
+
+
+.plus-btn
+{
+    margin-right: 8px;
+    border: none;
+    color: #20548c;
+    background-color: #e0efff;
+    cursor: pointer;
+}
+.plus-btn:focus,
+.plus-btn:hover
+{
+    background-color: #45566c;
+    color: #e0efff;
+}
+
+.minus-btn
+{
+    margin-left: 8px;
+    border: none;
+    color: #20548c;
+    background-color: #e0efff;
+    cursor: pointer;
+}
+.minus-btn:focus,
+.minus-btn:hover
+{
+    background-color: #45566c;
+    color: #e0efff;
+}
+
+.checkout-btn
+{
+    font-family: auto;
+    font-size: 17px;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 50px;
+    font-weight: 550;
+    color: #20548c;
+    background-color: #e0efff;
+    margin: 0 auto;
+    display: block;
+    cursor: pointer;
+    
+    
+}
+.checkout-btn:focus,
+.checkout-btn:hover {
+    background-color: #45566c;
+    color: #e0efff;
+  }
+

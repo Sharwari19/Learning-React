@@ -1,0 +1,29 @@
+.header
+{
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: -8px -8px -8px -8px;
+    padding: 10px 10px 10px 10px;
+}
+
+.home-link
+{
+    margin-left: 100px;
+    text-decoration: none;
+    color: aliceblue;
+    padding: 10px 0px 10px 0px;
+    font-size: larger;
+}
+
+.cart-link
+{
+    margin-right: 100px;
+    text-decoration: none;
+    color: aliceblue;
+    padding: 10px 0px 10px 0px;
+    font-size: larger;
+}
+
